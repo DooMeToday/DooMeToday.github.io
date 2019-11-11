@@ -1,0 +1,9 @@
+html {
+    height: 100%;
+}
+
+body {
+    background-image: url("dinner.jpg");
+    background-position: center;
+    background-size: cover;
+}
